@@ -7,4 +7,4 @@ Open Source
 
 MOOC Projects
 1) News Article Classification(KNN, Naive Bayes)
-2) New Article Clusterin using K Means
+2) News Article Clustering using K Means
