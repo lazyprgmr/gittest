@@ -1,1 +1,3 @@
-This is to check subsequent commits to github using git
+This is to check subsequent commits to github using git.
+
+Update: Now let us check how to make commits when changes are made to an existing file
